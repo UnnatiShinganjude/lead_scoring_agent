@@ -19,11 +19,17 @@ To run this project locally, follow these steps:
 1. Clone the Repository
    git clone (https://github.com/UnnatiShinganjude/lead-scoring-agent.git)
    cd lead-scoring-agent
+
+
 2.Create a Virtual Environment
   python -m venv venv
   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+
 3.Install Dependencies
   pip install -r requirements.txt
+
+
 4.Run the Application
   streamlit run app.py
 
